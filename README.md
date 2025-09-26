@@ -1,6 +1,6 @@
 # Mixtures Closest to a Given Measure: A Semidefinite Programming Approach
 
-We provide the `code` and used for the numerical experiments in:
+We provide here the code used for the numerical experiments in:
 
 [1] Srećko Ðurašinović, Jean-Bernard Lasserre, Victor Magron. "*Mixtures Closest to a Given Measure: A Semidefinite Programming Approach*" arXiv, 2025. 
 
