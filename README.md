@@ -1,4 +1,4 @@
-# Mixtures Closest to a Given Measure: A Semidefinite Programming Approach
+# Mixtures Closest To A Given Measure: A Semidefinite Programming Approach
 
 We provide here the code used for the numerical experiments in:
 
