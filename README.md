@@ -1,12 +1,10 @@
 # Mixtures Closest to a Given Measure: A Semidefinite Programming Approach
 
-We provide the `code` and the `data` used for the numerical experiments in:
+We provide the `code` and used for the numerical experiments in:
 
 [1] Srećko Ðurašinović, Jean-Bernard Lasserre, Victor Magron. "*Mixtures Closest to a Given Measure: A Semidefinite Programming Approach*" arXiv, 2025. 
 
 The `code/` directory includes all the algorithms and functions required to run the notebooks and evaluate various benchmarks. The implementation is written in [Julia](https://julialang.org).
-
-The `data/` directory contains all the datasets necessary to replicate the experimental results presented in the paper. It includes Polynomial Optimization (POP) instances, initial relaxation bounds, known local solutions, and logs from the SDP solver. For detailed descriptions, refer to the accompanying `_EXPLANATION.txt` files. All data is provided in `.jld2` format.
 
 
 ## Getting started
